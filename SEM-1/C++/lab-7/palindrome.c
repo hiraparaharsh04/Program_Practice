@@ -3,7 +3,8 @@
 void reverce(int number)
 {
     int reversed = 0, original = number;
-    while (number > 0) {
+    while (number > 0)
+    {
         int digit = number % 10;
         reversed = reversed * 10 + digit;
         number /= 10;
@@ -28,11 +29,3 @@ int main()
     reverce(number);
     return 0;
 }
-// if (sum == temp)
-// {
-//     printf("number is palindrome");
-// }
-// else
-// {
-//     printf("%d %d number is not palindrome", sum, temp);
-// }

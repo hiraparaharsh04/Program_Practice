@@ -2,6 +2,7 @@
 
 void reverce(long number)
 {
+    
     while (number!=0)
     {
         printf(" %d",number%10);

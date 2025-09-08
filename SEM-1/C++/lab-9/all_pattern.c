@@ -48,7 +48,7 @@ void pattern4(int length)
         }
         printf("\n");
     }
-}
+} 
 
 void pattern5(int length)
 {

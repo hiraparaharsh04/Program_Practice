@@ -4,7 +4,7 @@ int main()
 {
     FILE *fp;
     char ch;
-    fp = fopen("data.txt","r");
+    fp = fopen("fgetc.txt","r");
     if (fp == NULL)
     {
         printf("Error reading file");

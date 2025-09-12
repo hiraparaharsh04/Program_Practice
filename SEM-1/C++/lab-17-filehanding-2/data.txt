@@ -1,0 +1,7 @@
+this is c 
+roll no	 name	 maths	 physics chemistry eligible
+ 1	 harsh	 12	 23	 45	 No
+ 2	 P­zo	 1	 64	 0	 o
+roll no	 name	 maths	 physics chemistry eligible
+ 1	 harsh	 12	 34	 45	 No
+ 2	 P­Žm	 1	 64	 0	 o
